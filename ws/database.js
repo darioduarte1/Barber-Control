@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const URI = '';
+const URI = 'mongodb+srv://salao:ZUkhbau4HqnhfiTY@clusterdev.1tphl.mongodb.net/?retryWrites=true&w=majority&appName=ClusterDev'; 
 
 mongoose.set('useNewUrlParser', true);
 mongoose.set('useFindAndModify', false);
